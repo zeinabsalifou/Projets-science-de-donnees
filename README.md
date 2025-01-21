@@ -2,7 +2,7 @@
 
 Ce dépôt contient une collection de projets en science des données, mettant l'accent sur le prétraitement, le nettoyage et la modélisation des données à l'aide de techniques telles que la régression linéaire, la régression logistique, la classification et le machine learning.
 
-### Langage de programmation: Python
+## Langage de programmation: Python
 
 # Contenu du dépôt
 ### classification.ipynb : 
